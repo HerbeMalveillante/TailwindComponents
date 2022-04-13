@@ -5,6 +5,6 @@ This github repository contains many tailwind CSS components that I have created
 ## Index
 
 <details>
-    <summary>**Login Teal** (`src/components/loginteal.html`)</summary>
-    ![Login Teal](/previews/loginteal.png)
+    <summary><b>Login Teal</b> (<code>src/components/loginteal.html</code>)</summary>
+    <img alt="Login Teal" src="/previews/loginteal.png">
 </details>
